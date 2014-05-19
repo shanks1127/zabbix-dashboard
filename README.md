@@ -26,4 +26,4 @@ zabbix-dashboard
   
 注意事项：  
 	1、请使用火狐或者google浏览器效果最好。  
-	2、适用于zabbix2.0版本  
+	2、适用于zabbix2.0/2.2版本  
