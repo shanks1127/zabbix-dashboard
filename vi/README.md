@@ -16,13 +16,13 @@ zabbix-dashboard
 实现功能：  
 	1、ztree生成左侧树状图，树状图分为4个目录级别，group-host-application-item；最后一层目录的下面就是监控项的key_的名称  
 		注意： 只有那些有application名称的item才能在ztree中看到，这里需要注意。  
-  ![image](https://raw.githubusercontent.com/shanks1127/zabbix-dashboard/master/image/1.jpg)  
+  ![image](https://raw.githubusercontent.com/shanks1127/zabbix-dashboard/vi/master/image/1.jpg)  
   2、支持从树状列表拖拽多个key同时展现数据  
 	3、支持环比功能。  
-  ![image](https://raw.githubusercontent.com/shanks1127/zabbix-dashboard/master/image/2.jpg)   
+  ![image](https://raw.githubusercontent.com/shanks1127/zabbix-dashboard/vi/master/image/2.jpg)   
   4、可以根据item的id，定制想要的url  
 		比如：http://localhost/dztree/graph/graph.php?period=3600&itemids=133903,133905,133909,133911,133915  
-  ![image](https://raw.githubusercontent.com/shanks1127/zabbix-dashboard/master/image/3.jpg)   
+  ![image](https://raw.githubusercontent.com/shanks1127/zabbix-dashboard/vi/master/image/3.jpg)   
   
 注意事项：  
 	1、请使用火狐或者google浏览器效果最好。  
