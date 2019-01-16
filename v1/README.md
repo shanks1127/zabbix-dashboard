@@ -26,4 +26,5 @@ zabbix-dashboard
   
 注意事项：  
 	1、请使用火狐或者google浏览器效果最好。  
-	2、适用于zabbix2.0/2.2版本  
+	2、适用于zabbix2.0/2.2/4.0版本  
+	3、对于4.0版本，需要将文件gettree.php 的30、63行的groups表换成hstgrp  因为在4.0中groups表改名为hstgrp了
